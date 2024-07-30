@@ -21,8 +21,8 @@ Project is partly generated with [QuickAdminPanel](https://2019.quickadminpanel.
 - Run __php artisan key:generate__
 - Run __php artisan migrate --seed__ (it has some seeded data for your testing)
 - That's it: launch the main URL 
-- If you want to login, click `Login` on top-right and use credentials __admin@admin.com__ - __password__ 
-- Agent's credentials are __agent1@agent1.com__ - __password__ 
+- If you want to login, click `Login` on top-right and use superadmin credentials __admin@admin.com__ - __password__ 
+- customer credentials credentials are __pawangawali360@gmail.com__ - __123456__ 
 
 ---
 
